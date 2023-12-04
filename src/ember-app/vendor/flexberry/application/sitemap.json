@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Proba_2",
+  "applicationTitle": "Proba_2",
+  "items": [
+    {
+      "link": null,
+      "menuName": "proba-2",
+      "caption": "Proba_2",
+      "title": "Proba_2",
+      "children": [
+        {
+          "link": "i-i-s-proba-2-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba-2-улица-l",
+          "menuName": null,
+          "caption": "Улица",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
